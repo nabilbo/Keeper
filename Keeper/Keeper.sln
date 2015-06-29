@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeApp1", "OfficeApp1\OfficeApp1.csproj", "{1B6EE069-E38A-43F9-B98F-F3F8F7A1C24D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFilesKeeper.Outlook.App", "..\..\..\..\..\..\temp\TheFilesKeeper.Outlook.App\TheFilesKeeper.Outlook.App - Copie\TheFilesKeeper.Outlook.App\TheFilesKeeper.Outlook.App.csproj", "{6DE5AD78-28AB-4DBB-A881-072DCF074563}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeApp1Web", "OfficeApp1Web\OfficeApp1Web.csproj", "{DBB6B8E0-EA90-40B0-BCA7-5FF1E9FFF3B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheFilesKeeper.Outlook.AppWeb", "..\..\..\..\..\..\temp\TheFilesKeeper.Outlook.App\TheFilesKeeper.Outlook.App - Copie\TheFilesKeeper.Outlook.AppWeb\TheFilesKeeper.Outlook.AppWeb.csproj", "{98D5111F-D147-4A01-BD3D-99E41E79CDB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,16 +13,16 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1B6EE069-E38A-43F9-B98F-F3F8F7A1C24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1B6EE069-E38A-43F9-B98F-F3F8F7A1C24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1B6EE069-E38A-43F9-B98F-F3F8F7A1C24D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{1B6EE069-E38A-43F9-B98F-F3F8F7A1C24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1B6EE069-E38A-43F9-B98F-F3F8F7A1C24D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1B6EE069-E38A-43F9-B98F-F3F8F7A1C24D}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{DBB6B8E0-EA90-40B0-BCA7-5FF1E9FFF3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DBB6B8E0-EA90-40B0-BCA7-5FF1E9FFF3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DBB6B8E0-EA90-40B0-BCA7-5FF1E9FFF3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DBB6B8E0-EA90-40B0-BCA7-5FF1E9FFF3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE5AD78-28AB-4DBB-A881-072DCF074563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE5AD78-28AB-4DBB-A881-072DCF074563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE5AD78-28AB-4DBB-A881-072DCF074563}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6DE5AD78-28AB-4DBB-A881-072DCF074563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE5AD78-28AB-4DBB-A881-072DCF074563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE5AD78-28AB-4DBB-A881-072DCF074563}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{98D5111F-D147-4A01-BD3D-99E41E79CDB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D5111F-D147-4A01-BD3D-99E41E79CDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D5111F-D147-4A01-BD3D-99E41E79CDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D5111F-D147-4A01-BD3D-99E41E79CDB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
