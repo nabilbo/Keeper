@@ -1,0 +1,16 @@
+﻿/* Styles propres aux pages */
+
+/* Mise en forme des boutons de l'exemple */
+
+#set-subject {
+    width: 100px;
+    margin-right: 5px;
+}
+
+#get-subject {
+    width: 100px;
+}
+
+#add-to-recipients {
+    width: 205px;
+}
